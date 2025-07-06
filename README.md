@@ -20,37 +20,6 @@ Can smaller, fine-tuned models generate explanations for commonsense reasoning t
 - **Human-AI evaluation alignment** - Agreement between human ratings and automated metrics
 - **Resource efficiency** - Balancing model performance with computational requirements
 
-## Repository Structure
-
-```
-Code/
-├── 100_FINAL.csv              # Final evaluation results for 100-sample subset
-├── 500_FINAL.csv              # Final evaluation results for 500-sample subset
-├── results_labelAccuracy.csv  # Label accuracy comparison across models
-├── plotCode/                  # Data visualization and analysis
-│   ├── comparingFewShots.ipynb           # Few-shot comparison analysis
-│   ├── evaluation100.ipynb               # 100-sample evaluation plots
-│   ├── evaluation500.ipynb               # 500-sample evaluation plots
-│   ├── plot100.py                        # Plotting script for 100-sample results
-│   ├── plot500.py                        # Plotting script for 500-sample results
-│   ├── Generated_vs_Human1_Kendalls_Tau.png
-│   ├── Human_Kendalls_Tau.png
-│   ├── LLaMA_Generated_vs_Human_Kendalls_Tau.png
-│   ├── T5_Generated_vs_Human_Kendalls_Tau.png
-│   └── LabelAccuracycomparingFewShots.png
-└── theCode/                   # Main experimental code
-    ├── ACORN.jsonl                       # ACORN dataset (3,500 explanations)
-    ├── ACORNviewer.ipynb                 # Dataset exploration notebook
-    ├── DebertaAccuracy.ipynb             # DeBERTa evaluation accuracy
-    ├── DebertaFineTuning.ipynb           # DeBERTa fine-tuning for evaluation
-    ├── Evaluation100.ipynb               # Main evaluation on 100 samples
-    ├── Evaluation500.ipynb               # Main evaluation on 500 samples  
-    ├── FlanT5FineTuning.ipynb            # Flan-T5 fine-tuning process
-    ├── LabelAccuracycomparingFewShots.ipynb # Few-shot accuracy comparison
-    ├── TauKrippendorff100.py             # Kendall's Tau calculation (100 samples)
-    └── TauKrippendorff500.py             # Kendall's Tau calculation (500 samples)
-```
-
 ## Methodology
 
 ### Dataset: ACORN
