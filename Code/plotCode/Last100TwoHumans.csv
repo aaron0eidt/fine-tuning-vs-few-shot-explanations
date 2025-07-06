@@ -1,0 +1,5009 @@
+Question;Correct Choice;Ground Truth Explanation;Generated Explanation (T5);Generated Explanation (LLaMA);Ground Truth Ratings;T5 Ratings;T5 Human Ratings 1;T5 Human Ratings 2;LLaMA Ratings;LLaMA Human Ratings 1;LLaMA Human Ratings 2;T5 Similarity;LLaMA Similarity;T5 BERTScore;LLaMA BERTScore;T5 BLEURT;LLaMA BLEURT
+If someone is fiddling a fiddle at random, what song are they likely to play next?;unpredictable;Song can be predicted by its music but if artist is playing violin randomly then unpredictable song is likely to play.Dancing about cannot be the song that artist play always after random violin music. Being happy or Troubles is not suitable option here.They play cricket is not relevant option here.;fiddling a fiddle at random is a way of playing a song.;"Fiddle refers to violin which has four strings, whereas ""fiddle"" here implies playing music randomly without any rhythm or pattern so there will no specific song played next by the person who plays with a fiddle.";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1 
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 4 
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 1
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.51;0.42;0.85;0.84;-1.28;-0.83
+A night owl is what you'd head at sunset and you'd hear a what at sunrise?;lark;A lark is a bird that one can hear at sunrise. All the other options are not related to a night owl.;a night owl is what you'd head at sunset and you'd hear a lark at sunrise;Larks are birds which make sound during morning time or early hours of day i.e., dawn. They are also called Morning Birds. Thus, option C is correct choice here.;"supports: 2
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 5
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.8;0.82;0.88;0.88;-0.81;0.04
+Where can you buy eggs along side many other types of food?;supermarket;supermarket have eggs and many variety of other food and supermarket is place where all food items are sold.egg carton doesnt have any other food but eggs.refridgerator is not place where eggs are sold. breakfast is meal not place where food item are sold.chicken coop doesnt have any other food item for sale.;supermarkets sell eggs and other foods.;Supermarkets sell all kinds of goods including vegetables ,fruit etc. and also egg which makes them the best choice among others to buy eggs . Other choices are wrong because they don’t serve or sell anything apart from just eggs only.;"supports: 1
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.74;0.72;0.87;0.85;-0.66;-0.21
+The child was taken against its will and what the parents?;away from;Children's will is to generally live with their parents and against children's will would to be to take them away from parents. All the other options are not what happens when children are taken against their parents.;the child was taken against its will and what the parents away from.;Child has no way or freedom to decide whether she/he wants to stay with her/his family members or leave them and live elsewhere alone. So, the sentence “The child was taken” suggests that the parents took their own son / daughter somewhere;"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.68;0.51;0.87;0.86;-1.18;-0.46
+The person answered the door when the mailman knocked, what likely happened next?;receive mail;Mailman is a person who brings mail. When a mailman comes to one's door, the person usually receives mail. One does not arm himself when a mailman knocks on the door. People do not cross street when a mailman knocks on the door. Feel sleepy is an irrelevant option. Dogs do not always bark when a mailman knocks on the door.;the person answered the door when the mailman knocked, what likely happened next was receive mail.;Mailman delivers mails to recipient only if someone answers their knocks or rings. If no one opens the door then there will be no delivery of letters by post office staff members. Recipients who open doors after receiving knocks receive;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1 
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.62;0.7;0.87;0.85;-0.86;-0.41
+The water spout wouldn't turn off.  Eventually, what was totally filled?;sink;A sink can be found filled with water. As the water spout wouldn't turn off so eventually sink was totally filled. The kitchen cant be found filled with water. Fountain cant be filled if water sout wouldn't turn off. Access to water is not a correct option. Florida and water spout are not related to each other.;sink is a water spout;Water overflowing from tap or shower will eventually fill up sinks if there is no stoppage mechanism such as a valve, which would stop its flow into the sink once tapped closed.;"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.65;0.52;0.86;0.84;-1.8;-0.63
+What does a round glass do?;hold water;A round glass is a container made to hold substances like liquids. So a round glass holds water. A round glass doesn't do anything else as given in the other options.;a round glass holds water;"Glass containers come in all shapes and sizes; however, a typical container used for holding liquid has rounded edges (hence called “round”) and a flat base. It holds water, which makes them suitable for keeping drinks cold or hot";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.77;0.76;0.89;0.86;-0.67;-0.02
+Where would you find cloth to sleep on?;bedroom;Bedroom can have clothes and one sleeps in the bedroom and not in the kitchen, fabric store or a garage. Bedroom is a room in the house unlike a linen closet.;bedroom is a place to sleep.;Cloths used for covering up the mattress inside the bedroom are called blankets or comforters. These words don't mean any type of clothes worn by people (pajama) , curtains(curtain),;"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.76;0.51;0.86;0.85;-0.84;-0.75
+Where would you find several businesses in the same location?;office building;An office business can have several businesses which can exist in the same location. Office building has a registered address unlike art or a big city. A part cannot have several businesses and a skyscraper need not only have businesses.;offices are often located in a building.;An Office Building houses multiple offices under one roof. Offices share common facilities such as restrooms and meeting rooms. These buildings offer flexible space solutions to tenants by dividing large spaces into smaller units. Many small or medium-sized companies prefer;"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 1
+contrastive: 1";0.69;0.67;0.86;0.85;-0.65;-0.27
+what happens to a company when it is bankrupt?;liquidated;When a company is bankrupt, its liquidated as its assets are converted into cash. A bankrupt company doesn’t have resources are its converted to cash. It can’t branch out nor commit crime as its not functioning being liquidated. Game over is not a valid answer because there is no game in a company going bankrupt.;liquidation is the process of reorganizing a company.;Bankruptcy refers to insolvency or being unable to repay debts by a person or organization. Liquidation is the process of selling off all assets (such as property) owned by the business so that creditors may;"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 1
+contrastive: 1";0.56;0.65;0.85;0.84;-0.89;-0.14
+Where would you find a monitor wall that is used for watching moving lines?;hospital;A hospital has monitor walls with moving lines that show details of people like heartbeat etc. All the other options do not have moving lines that one can see.;a hospital is a medical facility that provides medical services.;Monitoring patients is done by using monitors which display their vital signs on screen with moving line graphs. These monitors are usually found in hospitals or clinics. They don’t have anything to do with TVs, radios;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1 
+contrastive: 1";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.43;0.7;0.84;0.88;-0.97;-0.01
+A person wants to be successful, the end goal is to what?;acquire wealth;People consider gaining wealth as becoming successful. When people want to successful, it usually means they want to acquire wealth. Delicious food is an irrelevant option. Self esteem has no relation to becoming successful. One does not aim to be successful to gain compliments. The ultimate goal of becoming successful is not eating dinner.;a person wants to be successful, the end goal is to acquire wealth.;Successful people work towards getting richer which is defined as acquiring wealth by definition. To succeed implies success so it must mean having money or being well off. Becoming famous may lead someone to become rich but it wouldn't necessarily be considered;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.69;0.78;0.9;0.87;-0.7;-0.25
+What should my family and I look into getting if we don't want an egg from the supermarket?;henhouse;hen house is shed for keeping poultry in and poultry gives you eggs and hen house doesnt require you to go supermarket for eggsfarm doesnt have pultry only.chicken coop are made in large poultry farms generally not in houses.plate cannot provide you eggs. bird's nest doesnt have eggs always.;henhouse is a house;Henhouses provide eggs which come from hens. Hens lay eggs naturally. Supermarkets sell eggs produced by caged or factory-farmed hens, so buying them would not help your family avoid eggs from industrial farming.;"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1 
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 5
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.61;0.75;0.82;0.85;-1.84;-0.46
+Though the drawing of the object was ambiguous at best, the people playing the drawing game were able to identify the item because it was what?;common;Common means something prevalent and people will be able to identify something easily if it is prevalent. So the people were able to identify the object even when it was ambiguous because it was common. Something will be known when it is common and something ambiguous cannot be what the other options say.;common is the only thing that is ambiguous at best.;There wasn’t any clear picture given in question and still players could guess about the item because it is a commonly used object and found everywhere. This option makes sense among others.;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.77;0.31;0.83;0.85;-0.87;-0.45
+Danny noticed a ceramic object on the table and picked a grape out of it.  What might have been on the table?;bowl of fruit;Ceramic objects are made of clay and many tableware like fruit bowls are ceramic. Danny noticed the ceramic object of a bowl of fruit on table and picked a fruit out of it. One cannot pick out grape from painting of fruits and other options aren't ceramic objects.;a bowl of fruit is a ceramic object.;Ceramics are made by shaping liquid materials such as earthenware or porcelain into forms which then undergo high temperature processing to produce strong products (Wikipedia). Bowls of fruit would most likely be ceramic and would therefore;"supports: 3
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 1
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1 
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.73;0.72;0.89;0.85;-1.41;-0.49
+What is rain a type of?;weather;Rain is type of a weather. Disneyland isnt a type of rain. Air dont fits here. Forest dont suits here. Rain is not a snow.;rain is a type of weather.;Rain is a form or kind of weather which is precipitation through water droplets falling from clouds. Clouds don’t emit lightning, hail, snowflakes etc., only rainwater falls down due to gravity force. Th;"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.72;0.62;0.88;0.84;-1.0;-0.56
+The news held a forum on who people would choose, they had a group that was what?;undecided;There can be a group of undecided people and not blank people. Undecided refers to not making a decision while rejection, predetermination and forcing do not.;the news held a forum on who people would choose, they had a group that was undecided;Undecided meant having no decision or being unable to decide something clearly due to uncertainty about which option to select. This option describes those candidates who were undecided whether to vote for Trump or Biden during elections. Other options don’t seem;"supports: 0
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.57;0.77;0.85;0.85;-0.86;-0.27
+What device with a lens would be used to see distant stars and planets?;telescope;Telescope is an optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses, or of curved mirrors and lenses, by which rays of light are collected and focussed and the resulting image magnified. The device with a lens called Telescope would be used to see distant stars and planets. Camera is a device to record images at nearby places and not of far space. Glasses is not a device to see distant stars and planets. Microscope is for small cells and not for seeing stars and planets. Kaleidoscope is a toy and you can see within it and not through it. So, you can’t see stars and planets with Kaleidoscope.;telescopes are used to see distant stars and planets.;Telescopes are devices which are used to view things far away or invisible to naked eyes. They magnify the image by using their glass/plastic lenses or mirrors. They come in different sizes based on the size of the;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.74;0.71;0.87;0.85;-1.34;-0.5
+Sam came to despise his sister.  On the other hand, she felt what for him?;admire;Admire is to regard with respect or warm approval. Sam came to despise his sister. On the other hand, she felt admire for him. Despise is to feel contempt or a deep repugnance for. Love is a deep affection and not the opposite feeling of despise which his sister had for him. Worship is adoration for a deity whereas Sam was her brother. Cherish is to protect and care whereas Sam came to despise his sister who had a complete opposite feeling for Sam and it was not cherish. Honor is not an opposite of Despise what Sam’s sister had for him.;admire is a word that describes a feeling of admiration.;Despising someone suggests feeling hatred towards them while admiring indicates loving them. The given sentence says Sam hated her whereas her feelings were opposite i.e., she loved Sam. So, we conclude that her feelings for Sam was ';"supports: 3
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 0
+well_written: 0
+related: 1
+factual: 0
+new_info: 0 
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2 
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.69;0.68;0.83;0.85;-1.14;-0.81
+Justin couldn't dance long because he experienced what?;fatigue;Justin couldn't dance long because he experienced fatigue. To dance long is not related with having fun or meeting people. A person dont experience to be mannual. Become tired cant be experienced.;Justin couldn't dance long because he experienced fatigue.;Fatigued or tired would mean that someone was exhausted after dancing so long which Justin could not do if he were sick/ ill due to pain (injury). Exhaustion wouldn’t occur until later into the party;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1 
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 0
+related: 0 
+factual: 0
+new_info: 1 
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.9;0.8;0.92;0.85;-0.06;-0.23
+She had a bad habit of washing hands over one thousand times a day, what did she experience as a result?;dry skin;She experience dry skin as a result of washing hands over one thousand times a day. She had a bad habit of washing her hands again and again which results into the dry skin. Health is not due to a bad habit. To become wet is not a result that she experienced. She didnt experience skin irritation by washing hands again and again. Medium is not something to be experienced.;washing hands over one thousand times a day causes dry skin.;Washing hand over 1000 times will lead to dryness of your hands. Skin cells lose their moisture due to excessive exposure to water which results into dry skin.;"supports: 3
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 1 
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.7;0.67;0.89;0.87;-0.77;-0.48
+cats have how many apendages?;four legs;Appendage refers to something that is attached. Four legs are attached to cats while four paws are not. Four legs are used to walk unlike tail, whiskers and two eyes.;four legs is the most common way to describe a cat.;"Cat has two forelegs and two hind leg with five fingers in each limb; hence cat have four appendage. Insects don't have any limbs while snakes only have one pair of limbs. Mammals";"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 5
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.56;0.71;0.86;0.84;-0.69;-0.2
+They were baking together, the instructions called for sugar so they got it out of the what?;cupboard;They got sugar out of the cupboard. They were baking together and in cupboard the instructions was called for sugar. They might not sugar from the hallway. Instructions for sugar was not in every home. Out of candy bar or soda pop, they dont get sugar.;the instructions call for sugar so they got it out of the cupboard;Cupboards usually contain utensil or dry ingredients which could include sugars and flours etc.;"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.78;0.49;0.88;0.84;-0.92;-0.74
+Where do salesman work?;shop;Saleaman work ina shop. Sales take place at a shop, so salesman is required there. Frontdoor is not a place for someone to work. Salesman dont work at office or toy store. At carshow, there are no salesman.;salesman work in shop;Salesmen are those people who are involved with selling products or services. Shop is the most relevant option here as these people sell their product in shops/stalls. They don’t work anywhere else.;"supports: 4
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4 
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.69;0.6;0.85;0.85;-1.52;-0.23
+What can you use hear other people and be heard yourself?;telephone;By using telephone, you can hear other people and get yourself be heard. Song is not a way to hear people. Radio is not used to be heard yourself.. With ears, you can hear other people but they cant hear you by your ears. Mouth cant help you to hear other people.;telephones are used to hear other people and be heard yourself.;Telephones work using sound waves which enable us to speak with someone else or listen to them without being face-to-face. Hearing aid has nothing to do with phoning. Radios also allow hearing by broadcasting audio signals through;"supports: 4
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.75;0.64;0.89;0.85;-0.97;-0.09
+The cat was annoying because it would not leave James alone.  Whenever he locked himself down for work it would find its way into where?;bedroom;One can work from the bedroom and not from outside or from the backyard. Bedroom is a room in the house unlike a microwave and meat loaf. Cats can find their way into the bedroom.;james locked himself down for work in his bedroom;Cat usually stays with their owner and cats don’t prefer staying away even if there is no food or water provided by them. So whenever james locks himself down for work ,the cat will try finding ways to reach him .James;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.22;0.45;0.85;0.85;-1.41;-0.77
+They said they started what at first sight, well before their first kiss?;falling in love;Falling in love is the development of strong feelings of attachment and love, usually towards another person. They said they started falling in love at first sight, well before their first kiss. Fall in love is not what started well before their first kiss, as it is about first sight before their first kiss. Smile is not what started well before their first kiss, as smiling at each other never always result in kissing. Embrace is not what started well before their first kiss, as it is not what happens in first sight. Asking questions is not what started well before their first kiss, as nobody starts asking questions at first sight.;falling in love is a common reaction to first sight.;When two people meet each other and start loving eachother then its called 'falling inlove'. It happens before their first kiss so thats why they mentioned about starting with first kiss which was incorrect.;"supports: 0
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 0
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.77;0.77;0.85;0.86;-0.69;-0.96
+It is hard to predict a rebound in basketball, this is because the ball and rim are what?;round;Round means to be circular in shape like the ball and rim in basketball, making it hard to predict a rebound. Rim can neither be punctured nor is full of air. Rim isn’t a ball to do the other options.;basketball is a sport where the ball and rim are round.;Ball and rim both are round so there will be no way to predict which player will catch or grab it first . As we know that in basket ball game only those players who gets hold of ball has chance to score points , hence if any person gets;"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 0 
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.76;0.57;0.87;0.85;-0.86;-0.43
+If you answering questions you only get credit if you're what?;correct;Credit means acknowledgement or praise given to someone when they are correct. So if you are answering questions you only get credit if you are correct. Answering questions can also be done without teaching and the other options does not give one credit while answering questions.;correct answers are given only if you are correct.;"Only by giving right answers you will receive your credits for exams or tests. So, ""if you"" must be followed by ""are correct."" This question was asked in SAT examination with some modifications.";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 3 
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.23;0.29;0.85;0.85;-0.8;-0.52
+Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?;humdrum;"Humdrum means lacking excitement or variety; boringly monotonous. Danny thought that the show was divine. Lila disagreed. She didn't think it was bad, but she thought it was humdrum. Danny thought that the show was divine means it was not godless. Danny thought that the show was divine while Lila didn’t think it bad means it wasn’t horrible. Danny thought that the show was divine means it was not undivine. It is about the show or a display and they are non-living things and cannot be termed as mortal or immortal.";humdrum is a word that describes a lack of excitement or excitement.;Humdrum refers to something ordinary or uninteresting. All the given alternatives refer to either positive or negative meanings.;"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.51;0.61;0.85;0.84;-0.74;-0.95
+A percussion instrument can be obtained in what sort of place?;music store;A percussion instrument means any instrument that makes a sound when it is hit. Such instruments are usually tuned and used to compose music. Such musical instruments are obtained in a music store. Marching band does not sell perscussion instruments. Pawn shops usually do not have musical instruments.Orchestra is not a place. People usually do not always have percussion instruments in their own homes.;music stores sell percussion instruments.;Percussion instruments include drums and cymbals etc., which can only be found in musical stores or shops selling musical accessories such as guitars, violins, pianos etc.. This option is incorrect since these kinds of instruments;"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.72;0.8;0.87;0.86;-1.31;-0.51
+He had only experienced tangible and corporeal events in his life, but the hippy girl opened up his what side?;spiritual;Experiences are generally two types which are caused by spiritual and corporeal events. The hippy girl opened up his spiritual side. Insubstantial and mind are not sides of a person and the other options come under spiritual.;he had only experienced tangible and corporeal events in his life, but the hippy girl opened up his spiritual side;Spiritual refers to things that relate to your soul or mind rather than physical matter such as earthly possessions. A tangible item has material substance while something incorporeal (like emotions) does not have any form or mass,;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4 
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 0 
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 2 
+unnecessary_info: 0 
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 1
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.69;0.49;0.88;0.84;-0.27;-0.45
+James was contemplating the research results.  What was James doing?;thinking;James was contemplating and thinking deeply about the research results. Contemplating answers to problems leads to discovery and excitement to buzzing and meaning to understanding, and not search results. Contemplating to think leads to reflection.;thinking is the action of contemplating.;"Contemplate means to think deeply about something or to meditate upon; to reflect upon quietly and deliberately.
+
+
+";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0 
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1 
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.74;0.32;0.86;0.83;-1.26;-1.09
+where can you sit to work on your needlepoint near your front door?;livingroom;One can sit inliving room while working on needlepoint. Also, a living room is the nearest to front door. All the other options are incorrect as one cannot sit there.;livingroom is the place to sit to work on needlepoint.;Living room has sofas which people normally sits upon while working on their crafts. People also works on projects like sewing or embroidering outside the house in backyard. Kitchen is not used for such activities. Bedrooms are usually;"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 1
+well_written: 1
+related: 0
+factual: 1
+new_info:  0
+unnecessary_info: 1 
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";0.76;0.61;0.89;0.87;-0.77;-0.5
+I have some food that I want to eat right now, where would I put it?;plate;Most of the Food needs to be put on plate before being eaten as Plate can be used to put the food.Food cannot be put in cup as cup is used to put the liquid items.Food cannot be put in the kitchen when person wants to eat right now. Food cannot be put in the pantry when person wants to eat right now as pantry is for storing the food. Food cannot be put in the jar before eating as jar is used to store the food.;plate is the only place where you can put food.;Plate holds things we wish to consume. Things could also be held by hands if there was no plates available. Other answers don't really match up with the question asked here since none of them represent holding something or consuming something immediately after;"supports: 4
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1 
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1 
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 0 
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.6;0.57;0.85;0.83;-1.2;-0.63
+Where might informational pamphlets be found?;library;Out of all the options, the most fesiable place is a library thta has a collection of various phamplets on all type of information. A library is a sure shot place to have informational phampalets. All the other options are not fesiable as they might not have all types of informational phamplets.;library is a place where informational pamphlets can be found.;Informational Pamphlet is available in libraries. Other places mentioned may contain information about their own services or products. But no such document will be provided by these organizations/places.;"supports: 1
+overall: 3
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1 
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1 
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 5
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 1
+contrastive: 1";0.44;0.35;0.84;0.82;-0.8;-0.67
+What can an adult do that a young child cannot in the morning?;dress herself;An adult can dress herself in the morning. A young child cannot dress herself. An adult person cant give up or drink beer or marry in the morning. Work might not be done in the morning by an adult.;adult is a person;Adults can wear clothes by themselves while children cannot do so without help. Also, adults don’t need their parents or someone else to wake them up before school while kids need help with getting ready in the mornings.;"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.53;0.69;0.83;0.88;-1.96;-0.2
+Billy likes eating breakfast in bed, but he doesn't do it often.  He likes his clean sheets too much. Why doesn't he eat breakfast in bed that often?;spills;Eating breakfast in bed regularly have more chances that you can spill on bedsheet andBilly likes clean bedsheet.Spill bedsheet doesn't give pleasure.Eating in bed doesn't cause indigestion always.eating in bed cannot be as convenient as eating on dining table.eating in bed doesn't make you guilty.;spills are a common cause of not eating breakfast in bed.;Eating breakfast in bed regularly have more chances that you can spill on bedsheet andBilly likes clean bedsheet.Spill bedsheet doesn't give pleasure.Eating in bed doesn't cause indig;"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.69;0.93;0.86;0.96;-0.89;-0.08
+If you're standing in line and the line isn't moving what might you feel?;anger;People feel angry when they hate something. People hate waiting in line therefore they feel anger. All other options are not feelings.;if you're standing in line and the line isn't moving what might you feel anger;In lines if there no movement then we tend to feel angry. So option (C) should be right choice. Other answers don't match with context.;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.65;0.34;0.86;0.87;-0.79;-0.8
+Where is a razor likely to be found on vacation?;suitcase;A razor is likely to be found in suitcase on vacations. Box cutter is not available on vacation. A razor cant be found in a psycho's pocket. Barber shop or medicine cabinet is not found on vacation.;suitcases are used for traveling.;Razors are used by men to shave their facial hairs so that people don't recognize them while travelling. Suitcases contain clothes which usually include trousers or jeans which needs to be ironed before wearing hence;"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 0
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.35;0.66;0.85;0.84;-1.09;-0.58
+If you have beans while eating breakfast you may experience what?;gas;Beans is gassy food andYou may experience gas if you eat gassy food.You feel fullness after eating any food.Beans doesn't cause indigestion. You gain energy from all the food.Beans doesn't cause stomach ache usually.;beans are a source of gas.;Beans contain high amount of fiber which causes gassing effect after consumption along with food. Therefore, if you consume any kind of bean or legumes during your meal then there will definitely be a lot of burping sounds coming up in;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 0
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 0
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.68;0.74;0.85;0.86;-0.91;-0.35
+Where could you put a dollar that would make it hard to get out without breaking?;piggy bank;Piggy bank is a money box, typically one shaped like a pig. You could put a dollar in a piggy bank that would make it hard to get out without breaking. Cash drawers are wide mouthed from where you can easily take out or keep in a dollar. Putting dollar in a purse is also easy to get it out as you can put your hand completely in it. Boxes aren’t usually used to put a dollar but even though if you keep it you can get it out so easily. Pockets can be surfed by our hands and so pocket isn’t the hard option.;piggy bank is a place where you can put a dollar that would make it hard to get out without breaking.;Piggy banks were first used by English children during the middle ages so they had something to save money into which was difficult to open without breaking them. This explains why only option C (piggybank) fits the question correctly.;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1 
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.84;0.59;0.89;0.85;-0.85;-0.7
+The man tried to run, but he could not. He could that he could only move by doing what?;walking;A person moves by walking and a person who could not run can only walk. One cant move by merely standing or standing still. He cant run, so he cant go quickly. Walking is always slow only.;walking is a way of moving.;Walking is something that every person has done since birth whereas running or flying or swimming requires special abilities which were not given him so he was unable to walk fast enough to catch up with them.;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.57;0.59;0.84;0.84;-0.79;-0.51
+God rested after building a lot of stuff, so what did he build?;everything;God is considered to have built the entire universe so god built everything. Compassion and imagination cannot be built and the other options are not a lot of stuff.;God rested after building a lot of stuff, so what did he build everything;"In Genesis chapter 2 verse 1-3, we read ""God created mankind in His own image; in the image of God He created them."" This indicates that humanity was meant by God to work just as he worked himself";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1 
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.55;0.41;0.86;0.83;-0.93;-0.59
+Why do people socialize when they first get a new job?;meet new people;People meets new people at new job. When they first get a new job, people socialize because they meet new people. People dont socialize for a small talk. At job, a person might not make friends. People might not get a raise by socialising at a new job. A job is not a place where people gets socialize to talk to people.;socializing when they first get a new job is a way to meet new people.;New employees join their workplace with different colleagues having various personalities and working styles. To understand how each person works so they can effectively collaborate together is why people socialize when they begin a new job. Meetings are held only if;"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 2
+well_written: 0 
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.82;0.71;0.9;0.86;-0.68;-0.28
+Why does a bodybuilder eat so much?;gain weight;Body builder needs to gain muscle in bulking phase soGainig muscle requires to eat more calories and result in gaining weight. Eating so much doesn't give you pleasant conversation.Body builder cannot store food in his body for winter. eating so much is not required to satisfy the hunger.Person doesn't eat lot of food for sounds of digestion;bodybuilders eat a lot to gain weight.;"Bodybuilders workout with heavy weights and muscles require protein to grow stronger. Protein can only come from food sources which lead them to consume high amounts of calories which leads them to put on extra fat mass (weight).
+
+";"supports: 4
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.71;0.67;0.88;0.86;-1.2;-0.38
+He kept throwing the stick away, but thanks to the dog the stick would always what?;come back;Dogs generally play a game of fetch and when one throws something away, dogs come back with it, So thanks to the dog the stick always comes back. Come here comes under come back and the stick will be present even if there was no dog. The stick won't be what the other options say after throwing it away.;dogs are able to return sticks.;Dog fetching sticks makes the stick return back to its owner. Hence option B is correct.;"supports: 3
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.78;0.71;0.85;0.86;-1.43;-0.74
+He was on tilt and losing hand after hand, the playing cards were causing him great what?;anger;When one loses a game after a game, they get irritated and hence get angry as they lose. All the other options are not what is caused when one loses hand after hand in a card game hence are incorrect.;anger is a feeling of anger.;Tilt refers to being upset or angry while playing poker which causes a player to lose their cool. Anger would also mean frustration over losses due to bad luck or poor decisions. There could be different reasons behind a player getting mad;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.36;0.5;0.86;0.86;-1.11;-0.07
+On what would you use a knob to change settings?;control panel;Control panel is a metal box which contains important electrical devices that control and monitor a mechanical process electrically. We would use a knob on control panel to change settings. Opening doors has a knob but aren’t used for change settings but for opening doors. A cell phone doesn’t have a knob on it to change settings. Television has the control panel with a knob which is used to change settings. Doorway has a knob to open and close the door but can’t be used to change settings.;knobs are used to change settings.;Knobs are used to turn on/off electrical appliances or set them according to your preferences. You wouldn't know if there was something wrong with those appliances unless you checked their controls by turning the knobs.;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info:1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";0.46;0.37;0.86;0.86;-1.21;-0.43
+He got tickets to go to performance of his idol, he had a lot of what for him?;admiration;Admiration means respect and warm approval. He got tickets to the performance of his idol because he had a lot admiration for him. One cannot have a lot what is given in the other options for an idol.;he got tickets to go to performance of his idol, he had a lot of admiration for him;Adoration/admiration means having great respect or love towards someone. In the sentence “he had a lot of admiration”, it states that the person has lots of admirations for their idols. Tickets could mean admission;"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.71;0.73;0.91;0.87;-0.18;-0.0
+What is a parents primary duty?;care for children;Parents are always affectionate towards their child. Affection leads to caring. Good parenting starts with caring for your own child. Speaking freely is not a primary duty. Happiness of a child may not always be beneficial for valuable life lessons. Controlling a child sometimes has a negative outcomes. School child is an irrelevant option.;parents are responsible for their children.;Parents take care of their kids by giving them food , shelter and love . They teach their child about good things so they will become good people later on in life.;"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.5;0.64;0.88;0.86;-0.73;-0.35
+What could guns do which could be illegal?;take life;Take life means killing someone which is illegal according to the law. Guns are weapons that can shoot bullets from it which can kill someone. Using guns to kill is a real crime and guns may not do other options which could be illegal.;guns can kill people.;Gun takes lives by shooting bullets hence it would be considered as an act of crime or murder if done without proper authorization. All the other choices don’t relate with gun usage.;"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.58;0.64;0.88;0.88;-1.02;-0.06
+Where might you feel cramped in a cubicle?;work;Work is an activity involving mental or physical effort done in order to achieve a purpose of result. We might feel cramped in a cubicle at work. Cramped means uncomfortably small whereas bank are spacious and well-designed. Constructing office space means it is under construction where there cannot be a cubicle. Home office is a workspace at home and doesn’t need a cubicle. Office building is a set of offices and are not divided in cubicles.;cubicles are used for work.;Cubicles are small rooms separated by walls. They tend to leave little space between them which makes people feel crowded or crammed up together. So we choose option B as our correct choice.;"supports: 0
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1 
+unnecessary_info: 0
+contrastive: 1";"supports: 0 
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.56;0.46;0.83;0.84;-1.47;-0.63
+What do you do to weapons when you want to gather them?;stockpile;When you want weapons just to gather them then you are doing its stockpile. You dont gather the weapons because you want to buy them. Weapons are not gathered for the purpose of oversupply. Superabundance or plentitude is not an activity;stockpile is the only way to gather weapons.;Weapons should be kept safe so that we don’t lose any weapon accidentally or deliberately which could lead to catastrophe. So, we keep our weapons safely by storing them away in safest places possible. This process is;"supports: 0
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.67;0.43;0.85;0.84;-1.1;-0.21
+John wants to buy a writing instrument and paperclips. Where would be go?;office supply store;Writing instrument and paperclipps are office material. As John wants to buy a writing instrument and paperclips so he would go to the office supply store. From desk dwrawer, a person cant buy writing instrument and paperclips. Writer's hand is not a place from where office things can be purchased. At stationery store these items might not be available. Purse is not a place from where office things can be purchased.;office supply store is the place to buy writing instruments and paperclips.;Office supplies include things such as papers clips, staplers etc.. These articles can only be found in an office or any kind of workplace so we conclude that john will go to office supple stores to purchase these products which makes our;"supports: 1
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1 
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.76;0.6;0.88;0.85;-1.32;-0.58
+In what place could you find air that has been breathed by only a few people recently?;house;House is a building where families generally live and a family consists of a few people. So House is where one could find air freshly breathed by only a few people. There won't be any people in a cupboard and all the other options have a lot of people.;house is a place where only few people breathed air recently.;Air is usually circulated so houses should contain air which hasn’t had enough time to mix with others. Also since the air will have come straight from human lungs, the quality would also be better than anywhere else.;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.73;0.66;0.87;0.85;-0.74;-0.48
+What is a place that sells suntan lotion but not food or medicine?;shop;Shop is a place. Suntan lotion can be purchased from a shop. Food or medicines are not available at any shop. At mini mall, food is also available. Suntan lotion is not available at grocery store. At pharmacy or drugstore, medicines are available;shop is a place that sells suntan lotion but not food or medicine;Suntans are usually used during summer vacations so people visit shops which sell suntan lotions, these stores also don’t provide any medicines since there are pharmacies which deal with such things only. Shop provides both medic;"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.88;0.86;0.88;0.86;-0.49;-0.27
+When a kid is ready for school, what do admissions counselors say about him?;old enough;All schools have an age condition for kids to join them in their schools, so the admissions counselors say that the kid is old enough when they are ready for school. A student is someone who already goes to school and going to school doesn't mean leaving home. Registration is not something about a kid and kids don't go see work.;when a kid is ready for school, what do admissions counselors say about him old enough;Admissions counsellor checks if the child is eligible or not based upon age criteria which determines whether the kid should attend classes with others or not. Hence, a kid who has reached the required minimum age (as determined by;"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 0
+well_written: 1
+related: 0
+factual: 1
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.66;0.63;0.87;0.85;-0.86;-0.22
+What does a robot need to be able to be working?;energy;Energy is required in working. A robot need energy to be able to be working. Energh is not any word. Robot dont do the job. As robot is a machine so it does not require concentration while working. While working, compensation is not needed to be done.;energy is needed to be able to be working;Robots needs electricity to work properly just like any other electrical device or machine . Electricity provides power and energy which makes robots move. So we can conclude that robots require both power(electricity) and energy (electron;"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1 
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.68;0.66;0.88;0.85;-0.63;-0.37
+What would use a classical stringed instrument?;string quartet;String quartet would use a classical stringed instrument. Rock band or music store dont use a classical stringed instrument. A classical stringed instrument is not used at barbershop or concert.;string quartets are used for concerts.;"String quartets play with four instruments which include violin, viola, cello, and double bass or contrabass (which has six strings). They may also perform pieces written specifically for them such as Haydn's ""Sun""";"supports: 2
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.79;0.68;0.89;0.85;-0.96;-0.66
+The laser light hurt his eyes, how would he describe it?;forceful;"Forceful means strong and assertive; vigorous and powerful. The laser light hurt his eyes; he would describe it forceful. Darkness is absence of light andthe laser light was hurting his eyes means there was light and not darkness. Cumbersome is unwieldy and it is all about how he would describe the hurting laser light which is not bulky. Crucial is critical whereas the laser light hurting the eyes can’t be crucial. The laser light was hurting his eyes means it wasn’t cool for him.";forceful is a word that describes something.;Forceful suggests strong or powerful effect which could imply that the laser was painfully bright causing damage to the eye. The lasers were blindingly bright which also implies that there is enough power behind them such that the eyes will experience difficulty adjust;"supports: 0
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 0
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.62;0.87;0.81;0.85;-1.2;-0.7
+What is the largest state with a coast in the US?;california;California is the 3rd largest state in terms of area which also contains coastal line. New York and Florida are smaller states in comparison to California in teams of area and other options are not states;california is the largest state with a coast in the us;California has the biggest coastline among all states with a coastal line. It also happens to be the most populated American state which makes it unique. Texas comes next by having longest stretched coastlines after California followed by Alaska and Florida. Oregon;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.79;0.79;0.85;0.87;-0.88;-0.2
+Sam left his muddy shoes in the entryway.  Where might he be?;house;At house's entryway, shoes are left. Sam left his muddy shoes in the entryway of house. There is no entryway in a garden. Someone might not left their muddy shoes in entryway of office building or school or department store.;a house is a place where a person would leave their shoes.;Shoes which have become dirty or muddy by walking outside are usually kept near doorstep so that they don't spoil the carpeted floor inside home. So option (b) i.e., 'house', makes sense here.;"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.63;0.72;0.87;0.85;-1.18;-0.51
+When a person is convicted of committing murder, what happend to them?;incarceration;Is person commits murder, he has to undergo court sessions and when convicted, one has to undergo incarciration. Going to jail and undergoing proceeding is the pre-event of the conviction of the offence like murder. Imprisonment can also be unlawful to restrain someone's freedom and sadness is not the feeling which depends on conviction of muder.;incarceration is the punishment for committing murder.;Murderers must serve jail time or prison time until their sentence ends and then return back into society. Jails/prisons hold those who commit crimes so it would most likely apply to someone being charged with murdering another human being.;"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.61;0.59;0.85;0.84;-0.8;-0.46
+What do drugs do?;cause accidents;Drugs changes your state mind and you may feel confusion, hallucination or aggression and Changed state of mind cause accident if you are driving after taking drugs. Damage happens to organs if you take for long time. Drugs may not cloud your mind if dosage is low.Drugs may not lower your i.q. permannently.Drugs dont cause illness immediately.;drugs cause accidents.;"Drugs affect brain which controls body parts including motor skills, judgement etc., causing accidental deaths.
+Drugs don’t change personality or behavior.Drug addiction doesn’t lead people towards crime.Dru";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.67;0.71;0.86;0.86;-1.28;-0.35
+The star was lonely, what did it wish it was part of?;constellation;A constellation is a group of stars. Since the star was lonely so it wish that it was a part of constellation. Hollywood dont suits here. Night sky is not a correct option. The star might not wish to be a part of atmosphere. A lonely star is not a part of solar system.;star is a constellation;Constellations contain lots of stars which form shapes together just like a group or cluster. Stars alone don't seem like something that could keep someone company so the correct option would be 'constellation'. Other answers will only lead to confusion since;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 0
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1 
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.72;0.67;0.85;0.85;-1.57;-0.44
+Who was the head of the branch yelling at?;subordinate;Subordinate means a lower rank or position and higher rank people generally yell at lower rank people. Head of the branch is a higher rank to subordinate. Head of the branch cannot yell at owner as owner owns the branch and all the other options are not people to be yelled at.;subordinates are the ones who are yelling at the head of the branch.;Yell or shout is used by people who hold higher position than others. People with lower positions don’t usually raise their voice while speaking. Head of any organization has higher authority over employees working under him/her and therefore raises her/his;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 0
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.84;0.61;0.85;0.85;-1.18;-0.37
+Where does someone lay with their leg elevated when it's broken?;hospital bed;Hospital bed is a bed having side rails that can be raised or lowered and a mattress base in three jointed sections so that the head, foot or middle may be raised by a crank or motor, allowing a patient to lie in various positions, as a therapeutic aid or for comfort. Someone lay with their leg elevated in a hospital bed when it's broken. Spinning wheel is not for patients to lie-down with their leg elevated. Ladder is used for climbing up or down and not for someone laying with their leg elevated. Legroom is space for a seated person to put his legs and not for someone to lay with their leg elevated. Grand piano is a musical instrument and not a bed to lay down for someone with broken leg.;hospital bed is a place where someone lay with their leg elevated when it's broken.;When legs break or any part breaks then we take help of Hospital Bed which has side bars attached by which person gets support while lying down and his/her legs raised upwards.;"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.78;0.57;0.87;0.83;-0.95;-0.97
+The gun was uncomfortable tucked in her pants, where did she put it?;holster;A holster is a holder for carrying a handgun or other firearm and a gun comes under a handgun or firearm. All the other options are not appropriate places for a gun.;holsters are used to keep guns in their pockets.;In order to carry something comfortably it has to fit properly into your pocket or waistband. Holsters hold guns so they don’t fall while being carried around by people who want them handy.;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 2 
+unnecessary_info: 0
+contrastive: 1";0.75;0.7;0.86;0.86;-0.25;-0.3
+His shot was bad and he found himself stabbing to death the buck, it was what everywhere?;bleeding;Due to his bad shot, it was bleeding everywhere. He found himself stabbing to death the buck and it results into bleeding everywhere because his shot was bad. There cant be killing everywhere. Coughing is not a correct option. Mess dont suits here. Just because of a bad shot, a person might not get imprisonment.;bleeding is a common reaction to a shot.;In hunting, if someone shoots wrongly then there will be bloodshed or killing of animal which causes the hunter to kill him/herself with weapon.;"supports: 0
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.68;0.54;0.85;0.85;-1.2;-0.76
+Where will you find an automobile that has broken down?;side of road;Automobile has broken down means it has stopped while driving and side of road is a place where automobile stops while driving. So one can find an automobile that has broken down on the side of a road. Freeway also has a side of road and the other options are not places where one would find automobiles that are broken down.;automobiles are often found on the side of road.;Automobiles breakdown most frequently by being left unattended or while traveling along highways. If someone were driving their vehicle up onto your property then they would likely stop somewhere else first. Automobiles rarely breakdown inside people's;"supports: 3
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.62;0.57;0.87;0.85;-1.09;-0.3
+What do people in love do after they get married?;reproduce;When two people in love get married, physical attraction leads them to reproduce. All other options are not valid as not all marriages last forever wheras hurt is not realted to just marraige. Other two options are grammatically incomplete.;reproduction is the only way to reproduce.;Reproduce means to produce offspring or children. When two individuals who are in love marry eachother then they will start producing kids. They also become responsible parents which requires them to take care of their child. This question was asked with the;"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0 
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.36;0.44;0.84;0.85;-1.41;-0.77
+The sloppy dad saw the random stuff in the kitchen, and didn't know where to put it, where did he decide to place it?;cabinet;The random stuff is placed in cabinet in the kitchen. The sloppy dad didn't know where to put the random stuff in the kitchen so he decided to place it at the cabinet. Anything is not a place where random stuff can be put. Cupboard might not be found in the kitchen. The sloppy dad didn't place random stuff at michigan. The random stuff cant be placed on the table.;the sloppy dad saw the random stuff in the kitchen, and didn't know where to put it, where did he decide to place it cabinet;The father placed all the dirty plates into the sink or cupboard so no one could see them. Sink was used only by him and his wife while everyone else had their own places to keep things away. If there were guests over, then;"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.79;0.52;0.89;0.84;-0.44;-0.65
+He leaned the beam over the flooded gap to create a makeshift what?;bridge;Bridge is a structure making a path between two ends with a gap and leaning a beam over the flooded gap will create a path that is a makeshift bridge. New construction comes under a bridge and leaning a beam will not create what’s given in the other options.;a bridge is a structure that is made of a beam.;"Bridge implies two opposite banks connected by something else. When water gushes through the gap, we fill it with mud or soil which creates a kind of a small pathway between both ends. Hence, we call them bridges.
+
+";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.81;0.75;0.87;0.86;-1.36;-0.52
+John is getting something important.  What does this make him feel?;being happy;People become happy and content on receiving something valuable. Receiving something important doesn't make people stoic, and doesn't necessarily cause headaches or make people want more.;getting something important is a feeling of being happy.;Being important makes someone feel good or happy.;"supports: 3
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 1
+new_info: 0 
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.66;0.6;0.86;0.87;-0.36;-0.56
+What in a car could have an led?;dashboard;Dashboard is the panel facing the driver of a vehicle or the pilot of an aircraft. Dashboard in a car could have an LED. Electronics is a branch of study and not an equipment to be placed on a dashboard. Electronic equipment is the type of electronic device and not the component. Display is the display technology. LCD, LED, ELD, PDP and QLED are the different types of display technology. PC board is a printed circuit board and it is not found on car dashboards.;dashboards are used to show the interior of cars.;Led stands for light-emitting diode which is used widely today due its low energy consumption. In cars, the dashboards usually consist of LED lights such as speedometer gauges and fuel indicators. They also help provide extra illumination;"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.63;0.56;0.85;0.84;-1.14;-0.76
+The excavation workers had to take extra care to stay hydrated, what landscape might they be working?;desert;The excavation workers need to stay hydrated in desert. They might be working in desert landscape and had to take extra care. Excavation worker might not be working in city. Montana or store is not landscape. The excavation worker dont take extra care while working in egypt.;desert landscape might they be working;Excavations may occur anywhere, even in water bodies or mountainsides but these places don’t require special precautions taken by the workforce to keep themselves hydrated due to their low temperatures which is why only drylands like;"supports: 4
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.54;0.61;0.83;0.85;-1.72;-0.39
+The person was shocked when the FBI talked to her about some facebook posts, what did the person want?;freedom of expression;A person has the right to express their thoughts abd beliefs on a social platform in a democratic country. The FBI has no right threaten him or capture him due to some facebook posts. A person usually does not expect money or compliments from the FBI. FBI is not a restaurant where one can get food and water. One cannot get freedom of information from the FBI.;facebook is a social network;Freedom of speech allows people to express themselves freely without any fear or pressure from the government. In this question, Facebook is used instead of social media which has replaced traditional methods of communication such as phone calls and letters over time due to its ease-;"supports: 4
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 0
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.27;0.4;0.83;0.85;-1.57;-0.49
+There are different kinds of Meningitis, but it is an illness that affects the what?;brain;Meningitis is an illness that affects the brain as there is a swelling in meninges a part or portion of brain. While nursing home, Hospital and Doctor’s office being nonrelative terms and nail not a meninges.;Meningitis is a disease that affects the brain.;Meningitis is an inflammation of the membranes (meninges) covering the brain or spinal cord which causes swelling around these areas leading to fever, vomiting, stiff neck and confusion.;"supports: 0
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";0.83;0.79;0.9;0.86;-0.51;-0.3
+The padding was covered with mold, he never would've seen it if he didn't pull up the what?;carpet;A carpet can be pulled up and one can see mold below it. All the other options are incorrect as they cannot be pulled up.;carpet is a type of flooring;Carpets absorb moisture so molds grow underneath them. If we don't lift the carpets then moulds wouldn't come into light.;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.51;0.57;0.84;0.86;-0.78;0.04
+Where do people go if they are looking for a taxi?;street corner;Taxis are usually parked at the street corner when it has no rides. People can usually find a taxi at the street corner if they are looking for one. People usually cannot find a taxi at an apartment. Space shuttle is an irrelevant option. Public place is a very vague answer. Taxi is generally not parked in a garden.;street corner people go if they are looking for a taxi;If someone wants a taxi then there must be a traffic signal or any public square (street-corner) nearby so that person can easily hail down the cab without wasting time. To ask for a ride we normally stand near traffic signals;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0 
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";0.67;0.63;0.87;0.85;-1.29;-0.51
+All the movies always portray gasoline as the commodity, but he was convinced a garden would be the most valuable in a what?;wasteland;A wasteland is an unused area of land that has become barren or overgrown. Hence he was convinced that a garden would be the most valuable in a wasteland, though all movies always portray gasoline as the commodity. A garden won't be the most valuable in a hop garden. A garden cannot be started in any of the places in the other options.;a garden is a commodity, but a garden is a wasteland.;In deserts or barren lands which lacks vegetations and water, gardens will prove helpful. Gasoline is used by people living in cities who travel long distances while gardens help those residing in villages/vast areas to grow their;"supports: 4
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.76;0.5;0.87;0.85;-1.21;-0.44
+Since we aren't immortal, people should what?;expect to die;Immortals are people who can never die. Mortals are people who can die. Humans are not immortals, hence they can die at some point. Paying bills is not related to not being an immortal. People usually do not buy pets because they are not immortals. People usually do not stay in only because they are not immortals. Eat corn is an irrelevant option.;expect to die is the only way to live.;Immortality refers to being alive forever or living without dying. In life everyone has to die so people shouldn't expect anything else.;"supports: 0
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1 
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 0";0.25;0.56;0.83;0.84;-1.46;-0.64
+Sean wanted to go to the Met, so he took a subway stop in what city?;new york city;In a new york city, there is the Met. As Sean wanted to go to the Met, so he took a subway stop in new york city. There is no Met in large city or toronto or metropolis.;subways are in New York City.;"New York City is the only option here since there were no mentions about any other cities or places mentioned beforehand. Therefore, we know which city should come next. If this question had been asked differently (for example if instead of ""New York""";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.56;0.44;0.85;0.83;-1.27;-0.68
+The woman was yelling obscenities in public, and while it was entertaining for people passing by, what did her husband feel?;embarrassment;wife's yelling at husband in public entertains other people passing by and you feel embarrassment when people have fun of you. yelling cannot give happiness to husband if his wife is yelling. you dont feel fatigue due to yelling of other. fulfillment is not feeling you can have when someone is yelling. you cannot enjoy when your spouce is yelling;embarrassment is a feeling of embarrassment.;Yelling obscene words in public makes everyone around them uncomfortable. Passersby would laugh or just ignore such person. While doing so,their husbands/wives must also feel embarassed if their loved ones were;"supports: 1
+overall: 1
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 0
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.19;0.52;0.85;0.85;-1.18;-0.3
+What bounds a book?;cover;Books are bound by a hard material made of paper called cover. Few pages are not hard material nad knowledge, many words and staples are not made of paper.;cover is the only thing that can be used to cover a book.;"Bound means covered with something else or fastened together by binding (or stitching). A book has two covers which binds them together along with pages inside forming a single unit called a book. There is no option like ""A book is";"supports: 3
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";0.6;0.62;0.85;0.84;-0.52;-0.47
+If you got a job as an undercover shopper you would buy products, then after doing a review you would what?;get money;Undercover shoppers are employees who get money for doing their job. They get money after doing reviews. Undercover shoppers do not compare prices or eat chicken after doing reviews. They also do not pay money or save money for doing their job.;undercover shopper is a job that requires you to buy products.;After buying product through your own expenses and giving reviews about them according to their quality, you will receive payment for your work which is called getting paid or receiving money. You won’t earn any money by being part-time shopping;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1 
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0 
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.75;0.35;0.86;0.86;-0.6;-0.29
+The student needed to  get some new pencils, where did he go?;store;Students mainly use pencils for study purpose. Stores sell stationery items like pens and pencils. Students go to the store when they need to buy pencils. Classroom is not a place where pencils are sold. Backpack is not a place where one can find new pencils. Cabinet does not generally have new pencils. Teacher is an irrelevant answer.;store is the place where you can buy pencils.;Store sells school supplies such as pencil cases which contain a lot of different types of writing utensils including erasers and rulers and pencil sharpeners (for those who still prefer using them). Other places;"supports: 0
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.66;0.68;0.87;0.85;-1.52;-0.4
+Where would you find a sloth that is not afraid of being hunted?;nature preserve;Animals are not being hunted in natural preserves. Natural preserve is a place where you would find a sloth that is not afraid of being hunted. At zoo, a sloth may be hunted. A sloth can get hunted at tropical rainforest or at forest canopy. Commercial is not a place where sloth can be found.;nature preserves are often surrounded by nature.;Nature preserves are places where animals live freely without any fear or threat. Sloths are found in jungles and trees so, their habitats don't provide them with safety. They are mostly hunted by humans for food purposes.;"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 0
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.52;0.84;0.85;0.87;-1.16;0.01
+If I want to find more information about things in general, what am I seeking?;increased knowledge;Person has to look for increasing his knowledge if he want more information in general. Knowing more doesn't help you find more information in general.Wisdom cannot provide you general knowledge. Gaining knowledge cannot give you general knowledge always. Headache is not something that person seeks for.;if i want to find more information about things in general, what am i seeking increased knowledge;"General refers to something or someone who is common among all people; hence ""increased"" meaning increasing quantity or amount of something is appropriate here since we seek increased knowledge (not necessarily the best).";"supports: 0
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 0
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1 
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.49;0.37;0.87;0.83;-1.09;-0.74
+The class was clear, and that made it almost what?;invisible;Clear glass can look invisible and not misunderstood or like a teacher. Invisibility refers to not being seen while murky and confusion do not.;clear is a synonym for invisible.;When something becomes clearer,it makes everything else become less visible. This is why clear things tend to blend into their surroundings.;"supports: 2
+overall: 1
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 0
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.68;0.55;0.85;0.85;-1.6;-0.28
+John knows what environment he can find marmosets in but doesn't know how to find that environment.    What areas of the Americas has the environment he's looking for?;south and central america;The dry to wet-humid environment that marmoset live are found in south and central america.All the other options are not correct as they are not the eaxct areas where marmosets are found.;marmosets are found in south and central america.;Marmoset lives mostly South America(central parts) .John looks for habitat so he would look only there.He wants an environment with rainforests.Only South America had those before 1950.They still live today.So;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";0.81;0.76;0.9;0.84;-0.74;-0.52
+What body of water is typically shallow water?;pond;Pond contains shallow water. Pond is used to denote shallow water only. LAke or Swimming pool dont contain shallow water. Acquariumscontain full water. Childrens pool is a very small pool containing normal water.;ponds are typically shallow water.;Ponds are small bodies of water which are usually very calm with little waves. They are also called still waters due to their lack of strong currents or tides. Lakes are large areas of standing water surrounded by land while oceans are;"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.73;0.63;0.86;0.84;-0.82;-0.59
+Though he was an adult he still stereotypical slept on a sofa bed in his parent's what;basement;At his parent's basement, there was a sofa bed. Though he was an adult he still stereotypical slept on a sofa bed in his parent's basement. Sofa bed was not in the garage. Horseradish dont fits here. He might not have slept in the guest room. He didnt had a stereotypical slept on a sofa bed in his parent's living room.;basements are usually located in the basement.;"Adult who lives with parents typically uses childhood furniture which includes such things as crib, bassinette or cradle, changing pad, baby swing etc.. The most common type of these pieces would be something called ""sofa bed";"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 0
+well_written: 1
+related: 1
+factual: 1
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 0";"supports: 4
+overall: 1
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 2
+well_written: 1
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.28;0.45;0.85;0.82;-1.27;-0.8
+There was no food in Danny place.  He had to go across the road and ask for some. Where might he have asked for food?;neighbor's house;Neighbor's house is mostly across the road near home so person can go easily and Person can ask to neighbor for some food when he doesn't have any food but neighbor have food. Going to Kitchen doesn't required you to go across the road as kitchen is alwasy inside the house. Person cannot go the military base to ask for food as person other than soldiers are not allowed. Shelf is not place where person can to ask for food. Restroom doesn't have food so person cannot go to restroom for food.;Danny had to go across the road and ask for some food. He had to go across the road and ask for some. He might have asked for food at neighbor's house.;Neighbor’s houses usually share their food with each other if they don’t have any food left at home or just ran out of groceries. This way neighbors help each other by sharing resources which would otherwise result in wasteful;"supports: 3
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 0
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 0
+contrastive: 1";0.41;0.6;0.87;0.84;-1.31;-0.78
+Where can you find many musician with people listening to them?;orchestra;An orchestra is a type of musical performance where there are many people listening to the musicians. All the other options are not related toa place with many musician with people listening to them.;orchestras are places where musicians are able to perform.;An orchestra is a group of musicians playing together. Orchestras usually include instruments such as violins, flutes, trumpets etc. They play different types of songs including classical ones which require musical training to perform properly. Some;"supports: 4
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 0";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 4
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 3
+unnecessary_info: 0
+contrastive: 1";0.82;0.91;0.88;0.87;-0.29;-0.1
+What type of person usually gets an illness?;elderly person;Illness means a disease or period of sickness affecting the body and mind. Elderly persons are more prone to illness due to low immunity. Beach, Stomach, Hospital and Body are not being the person or individual.;elderly people are the most likely to get illnesses.;Illnesses usually occur in older people who have weaker immune systems than younger ones. Younger people don’t catch diseases easily compared to old age. Older people also suffer from various health issues which could lead them to become sick;"supports: 1
+overall: 4
+well_written: 0
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 3
+well_written: 0 
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 0
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.74;0.75;0.86;0.86;-0.89;0.15
+If you're moving, the people here will forward your letters for you.;post office;Post office is the public department or corporation responsible for postal services and in some countries telecommunications. If you're moving, the people here at post office will forward your letters for you. Envelope is not an office or a department that forwards your letters to you. Mailbox is one mounted on a post at the entrance to a person’s property and no people are staying in it to forwards your letters to you. It is a physical mail and not an email message that are forwarded to you. Front door is the main entrance to a house of your house and you are not the one who will forwards your letters to you.;if you're moving, the people here will forward your letters for you.;Post offices work with postal workers who collect mail addressed to someone else living in their city or town so they send them along even if there is no one home (forward). When someone moves away, all of those future deliveries would come back unc;"supports: 1
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 1
+overall: 1
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 3
+well_written: 1
+related: 1
+factual: 0
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 1
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2 
+unnecessary_info: 1
+contrastive: 1";"supports: 1
+overall: 2
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";0.57;0.65;0.88;0.83;-1.15;-0.75
+Sally was a real estate agent but she was a bad one.  She didn't do well because people knew that she would oversell some features of the homes she sold. They assumed that she was always doing what?;exaggerate;People knew that Sally was a bad real estate agent as she didn't do her work properly and always exaggerate. People assume that by exaggeration she oversell some features of the homes being sold by her. A person cant be described as cover up. She didnt tell lie but only oversell the features. She didnt manipulate anything. She is not incompetent.;exaggerating is a way of achieving a goal.;Selling something with unrealistic claims about its capabilities or quality is known as exaggeration. People who work in sales field mostly try to promote their products by showing them off as better than others which leads to exaggerations. Thus, option;"supports: 3
+overall: 4
+well_written: 1
+related: 1
+factual: 1
+new_info: 2
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 1
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 3
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 3
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.29;0.39;0.85;0.84;-1.26;-0.42
+Where is there usually a fiddle playing?;orchestra;Generally in orchestra the fiddle is played by the artist.Artist doesn't play fiddle in music store. Dance hall doesn't always have fiddle playing by artists.Symphony is a piece of music written to be played by an orchestra so it is not appropriate option here.Fiddle are not played in tennessee always.;fiddle is a musical instrument.;Fiddle has different pronunciations in different regions and cultures around the world. In American English culture, ‘fiddle‘ refers to a violin played by musicians while performing classical music concerts. Violin players perform with orchestras.;"supports: 2
+overall: 3
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 1";"supports: 0
+overall: 2
+well_written: 1
+related: 1
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 0";"supports: 2
+overall: 2
+well_written: 1
+related: 0
+factual: 0
+new_info: 0
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 2
+well_written: 0
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 1
+factual: 1
+new_info: 1
+unnecessary_info: 0
+contrastive: 0";"supports: 2
+overall: 4
+well_written: 0
+related: 0
+factual: 0
+new_info: 2
+unnecessary_info: 1
+contrastive: 1";"supports: 2
+overall: 3
+well_written: 1
+related: 0
+factual: 0
+new_info: 1
+unnecessary_info: 1
+contrastive: 1";0.58;0.64;0.85;0.85;-1.4;-0.58
