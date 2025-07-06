@@ -202,8 +202,6 @@ tabulate>=0.8.0
 ### Additional Requirements:
 ```txt
 tf-keras
-ai2-olmo
-hf_olmo
 ```
 
 ## Authors
